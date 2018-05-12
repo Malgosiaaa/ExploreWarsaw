@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="restaurants_fragment">#ffcdd2</color>
+    <color name="museums_fragment">#e1bee7</color>
+    <color name="theaters_fragment">#d1c4e9</color>
+    <color name="cinemas_fragment">#c5cae9</color>
+    <color name="tabTextColor">#FFFFFF</color>
+    <color name="text_color">#000000</color>
+</resources>

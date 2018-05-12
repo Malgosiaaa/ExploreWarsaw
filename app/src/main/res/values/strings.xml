@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">Explore Warsaw</string>
+
+    <string name="restaurants_fragment">Cuisine</string>
+    <string name="museums_fragment">Museums</string>
+    <string name="cinemas_fragment">Cinemas</string>
+    <string name="theaters_fragment">Theaters</string>
+    <string name="mn1">National Museum in Warsaw</string>
+    <string name="ma1">geo:52.231704,-21.024799?q=Muzeum Narodowe w Warszawie</string>
+    <string name="mw1">http://www.mnw.art.pl/en/</string>
+    <string name="mp1">00 48 22 621 10 31</string>
+    <string name="mn2">Królikarnia</string>
+    <string name="ma2">geo:552.189341,-21.028412?q=Królikarnia</string>
+    <string name="mw2">http://www.krolikarnia.mnw.art.pl</string>
+    <string name="mp2">00 48 22 843 15 86</string>
+    <string name="mn3">Poster Museum</string>
+    <string name="ma3">geo:52.164149,-21.088176?q=Muzeum Plakatu</string>
+    <string name="mw3">http://www.postermuseum.pl</string>
+    <string name="mp3">00 48 22 842 48 48</string>
+    <string name="mn4">The Warsaw Rising Museum</string>
+    <string name="ma4">geo:52.232377,-20.981154?q=Muzeum Powstania Warszawskiego</string>
+    <string name="mw4">https://www.1944.pl/en</string>
+    <string name="mp4">00 48 22 539 79 05</string>
+    <string name="mn5">Copernicus Science Centre</string>
+    <string name="ma5">geo:52.241868,-21.028813?q=Centrum Nauki Kopernik</string>
+    <string name="mw5">http://www.kopernik.org.pl/en</string>
+    <string name="mp5">00 48 22 596 41 00</string>
+    <string name="mn6">Warsaw Museum</string>
+    <string name="ma6">geo:52.250047,-21.011489?q=Muzeum Warszawy</string>
+    <string name="mw6">https://muzeumwarszawy.pl/en/</string>
+    <string name="mp6">00 48 22 277 44 02</string>
+    <string name="mn7">Chopin Museum</string>
+    <string name="ma7">geo:52.236605,-21.022977?q=Muzeum Fryderyka Chopina</string>
+    <string name="mw7">http://chopin.museum/en</string>
+    <string name="mp7">00 48 22 441 62 51</string>
+    <string name="mn8">Royal Castle in Warsaw</string>
+    <string name="ma8">geo:52.248094,-21.015299?q=Zamek Królewski w Warszawie</string>
+    <string name="mw8">https://www.zamek-krolewski.pl/en</string>
+    <string name="mp8">00 48 22 355 51 70</string>
+    <string name="mn9">Neon Museum</string>
+    <string name="ma9">geo:52.250176,-21.062359?q=Neon Muzeum</string>
+    <string name="mw9">http://www.neonmuzeum.org</string>
+    <string name="mp9">00 48 665 711 635</string>
+    <string name="mn10">Museum of the History of Polish Jews</string>
+    <string name="ma10">geo:52.249440,-20.993184?q=POLIN Muzeum Historii Żydów Polskich</string>
+    <string name="mw10">http://www.polin.pl/en</string>
+    <string name="mp10">00 48 22 471 03 00</string>
+    <string name="tn1">Teatr Wielki Opera Narodowa</string>
+    <string name="tn2">Teatr Muzyczny Roma</string>
+    <string name="tn3">Teatr Rozmaitości</string>
+    <string name="tn4">Teatr Współczesny</string>
+    <string name="tn5">Teatr Powszechny</string>
+    <string name="tn6">Teatr Ateneum</string>
+    <string name="tn7">Teatr Kwadrat</string>
+    <string name="tn8">Teatr Kamienica</string>
+    <string name="tn9">Teatr Komedia</string>
+    <string name="tn10">Teatr Rampa</string>
+    <string name="ta1">geo:52.243572,-21.010664?q=Teatr Wielki Opera Narodowa</string>
+    <string name="ta2">geo:52.227616,-21.007728?q=Teatr Muzyczny Roma</string>
+    <string name="ta3">geo:52.214921,-21.021194?q=TR Warszawa</string>
+    <string name="ta4">geo:52.219109,-21.017138?q=Teatr Współczesny w Warszawie</string>
+    <string name="ta5">geo:52.247061,-21.048509?q=Teatr Powszechny im. Zygmunta Hübnera</string>
+    <string name="ta6">geo:52.237368,-21.032849?q=Teatr Ateneum im. Stefana Jaracza</string>
+    <string name="ta7">geo: 52.235878,-21.008667?q=Teatr Kwadrat</string>
+    <string name="ta8">geo:52.243318,-20.998542?q=Teatr Kamienica</string>
+    <string name="ta9">geo:52.269294,-20.978783?q=Teatr Komedia</string>
+    <string name="ta10">geo:52.272673,-21.049468?q=Teatr Rampa</string>
+    <string name="tw1">https://teatrwielki.pl/en/</string>
+    <string name="tw2">http://www.teatrroma.pl/</string>
+    <string name="tw3">http://trwarszawa.pl/en/</string>
+    <string name="tw4">https://wspolczesny.pl/</string>
+    <string name="tw5">http://www.powszechny.com/</string>
+    <string name="tw6">https://teatrateneum.pl/</string>
+    <string name="tw7">http://teatrkwadrat.pl/</string>
+    <string name="tw8">https://teatrkamienica.pl/pl/</string>
+    <string name="tw9">https://teatrkomedia.pl/</string>
+    <string name="tw10">http://www.teatr-rampa.pl/</string>
+    <string name="tp1">00 48 22 826 50 19</string>
+    <string name="tp2">00 48 22 628 70 71</string>
+    <string name="tp3">00 48 22 480 80 08</string>
+    <string name="tp4">00 48 22 825 59 79</string>
+    <string name="tp5">00 48 22 818 25 16</string>
+    <string name="tp6">00 48 22 625 24 21</string>
+    <string name="tp7">00 48 22 826 23 89</string>
+    <string name="tp8">00 48 22 624 01 99</string>
+    <string name="tp9">00 48 22 832 46 19</string>
+    <string name="tp10">00 48 22 679 50 51</string>
+    <string name="rn1">Bazyliszek</string>
+    <string name="rn2">Boruta</string>
+    <string name="rn3">U Fukiera</string>
+    <string name="rn4">Stara Kamienica</string>
+    <string name="rn5">Stary Dom</string>
+    <string name="rn6">Stolica</string>
+    <string name="rn7">Halka</string>
+    <string name="rn8">Delicja Polska</string>
+    <string name="rn9">Prodiż Warszawski</string>
+    <string name="rn10">Różana</string>
+    <string name="ra1">geo:52.249409,-21.012458?q=Bazyliszek Stare Miasto</string>
+    <string name="ra2">geo:52.252520,-21.007801?q=Boruta</string>
+    <string name="ra3">geo:52.249733,-21.011519?q=U Fukiera</string>
+    <string name="ra4">geo:52.231543,-21.015319?q=Stara Kamienica</string>
+    <string name="ra5">geo:52.195621,-21.023865?q=Stary Dom</string>
+    <string name="ra6">geo:52.249611,-21.010328?q=STOLICA - restauracja Stare Miasto Warszawa, starówka kuchnia polska</string>
+    <string name="ra7">geo:52.206772,-21.023782?q=Restauracja Halka</string>
+    <string name="ra8">geo:52.245386,-21.014430?q=Restauracja Delicja Polska</string>
+    <string name="ra9">geo:52.225527,-21.012100?q=Prodiż Warszawski</string>
+    <string name="ra10">geo:52.208468,-21.023554?q=Restauracja Różana</string>
+    <string name="rw1">http://bazyliszek.waw.pl</string>
+    <string name="rw2">http://www.restauracja-boruta.com.pl</string>
+    <string name="rw3">http://www.ufukiera.pl</string>
+    <string name="rw4">http://stara-kamienica.com.pl</string>
+    <string name="rw5">http://restauracjastarydom.pl</string>
+    <string name="rw6">http://restauracjastolica.com</string>
+    <string name="rw7">http://restauracjahalka.pl</string>
+    <string name="rw8">http://delicjapolska.pl</string>
+    <string name="rw9">http://prodizwarszawski.pl</string>
+    <string name="rw10">http://restauracjarozana.com.pl</string>
+    <string name="rp1">00 48 22 831 18 41</string>
+    <string name="rp2">00 48 22 831 61 97</string>
+    <string name="rp3">00 48 22 831 10 13</string>
+    <string name="rp4">00 48 22 114 43 33</string>
+    <string name="rp5">00 48 22 646 42 08</string>
+    <string name="rp6">00 48 604 598 764</string>
+    <string name="rp7">00 48 509 593 305</string>
+    <string name="rp8">00 48 22 826 47 70</string>
+    <string name="rp9">00 48  22 127 71 71</string>
+    <string name="rp10">00 48 22 848 12 25</string>
+    <string name="cn1">Wisła</string>
+    <string name="cn2">Muranów</string>
+    <string name="cn3">Praha</string>
+    <string name="cn4">Imax</string>
+    <string name="cn5">Kinoteka</string>
+    <string name="cn6">Multikino Złote Tarasy</string>
+    <string name="cn7">Elektronik</string>
+    <string name="cn8">Kultura</string>
+    <string name="ca1">geo:52.269526,-20.986807?q=Kino Wisła</string>
+    <string name="ca2">geo:52.245234,-20.998975?q=Kino Muranów</string>
+    <string name="ca3">geo:52.251688,-21.035720?q=Kino Praha</string>
+    <string name="ca4">geo:52.187449,-21.061151?q=Imax</string>
+    <string name="ca5">geo:52.231259,-21.006530?q=Kinoteka</string>
+    <string name="ca6">geo:52.230148,-21.002644?q=Multikino Złote Tarasy</string>
+    <string name="ca7">geo:52.261079,-20.992062?q=Elektronik</string>
+    <string name="ca8">geo:52.243384,-21.014268?q=Kino Kultura</string>
+    <string name="cw1">http://www.novekino.pl/kina/wisla/</string>
+    <string name="cw2">http://kinomuranow.pl</string>
+    <string name="cw3">http://www.kinopraha.pl</string>
+    <string name="cw4">https://www.cinema-city.pl/imax#/</string>
+    <string name="cw5">http://www.kinoteka.pl/</string>
+    <string name="cw6">https://multikino.pl/repertuar/warszawa-zlote-tarasy</string>
+    <string name="cw7">http://kinoelektronik.pl/</string>
+    <string name="cw8">https://www.kinokultura.pl/</string>
+    <string name="cp1">00 48 22 839 23 65</string>
+    <string name="cp2">00 48 22 635 30 78</string>
+    <string name="cp3">00 48 22 343 03 10</string>
+    <string name="cp4">00 48 22 550 33 33</string>
+    <string name="cp5">00 48 22 551 70 70</string>
+    <string name="cp6">00 48 22 462 81 10</string>
+    <string name="cp7">00 48 691 490 173</string>
+    <string name="cp8">00 48 22 826 33 35</string>
+</resources>
